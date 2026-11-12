@@ -11,4 +11,3 @@
 | WallBadukApp | Android·iOS용 Flutter 앱 · 비공개 |
 | [WallBadukAI](https://github.com/WallBaduk-App/WallBadukAI) | 순수 Dart 규칙·봇 탐색·정책/가치망 추론과 Python v2/v3 PPO 학습 코드 · 공개 |
 
-WallBadukAI에는 실제 사용자 기보를 포함하지 않습니다. 실행 방법, 모델 정보와 실험 범위는 저장소의 README에서 확인할 수 있습니다. 학습 실행의 완료는 수렴이나 기력 향상을 의미하지 않습니다.
